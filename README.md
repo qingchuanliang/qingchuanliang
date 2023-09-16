@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qingchuanliang
+- 👋 Hi, I’m 梁传清
 - 👀 I’m interested in 打羽毛球
 - 🌱 I’m currently learning mysql
 - 💞️ I’m looking to collaborate on 学习中获得更多知识
