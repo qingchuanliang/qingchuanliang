@@ -1,7 +1,7 @@
-- 👋 Hi, I’m 梁传清
-- 👀 I’m interested in 打羽毛球
+- 👋 Hi, I’m Liang Chuanqing
+- 👀 I’m interested in playing basketball
 - 🌱 I’m currently learning mysql
-- 💞️ I’m looking to collaborate on 学习中获得更多知识
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 15960043816@163.com
 
 <!---
